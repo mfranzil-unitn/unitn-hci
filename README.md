@@ -20,7 +20,7 @@ This repo contains the individual project made for following course:
 
 You can find the following material in the repo:
 
-* `192198_Individual_Project.tex` - LaTeX project report.
+* `project.tex` - LaTeX project report.
 * `drawable/` - Images used in the project report.
 * `files/*.io` - Draw.IO diagram files, used in the project report.
 * `files/medfid.xd` - Adobe XD medium fidelity prototype.
