@@ -23,7 +23,7 @@ You can find the following material in the repo:
 * `project.tex` - LaTeX project report.
 * `drawable/` - Images used in the project report.
 * `files/*.io` - Draw.IO diagram files, used in the project report.
-* `files/medfid.xd` - Adobe XD medium fidelity prototype.
+* `medfid/medfid.xd` - Adobe XD medium fidelity prototype.
 
 ## Authors
 
